@@ -6,6 +6,8 @@ Recently graduated from TAFE NSW with a Diploma of Information Technology specia
 
 Skilled at working independently and collaboratively to solve complex technical problems and deliver practical digital solutions. Strong foundation in software development principles with additional postgraduate exposure to Computer Science, Python Programming, and Database Systems through studies at UNSW.
 
+Certified Microsoft Professional with additional certifications in software testing and project management
+
 Passionate about continuous learning, modern web technologies, and creating impactful software solutions.
 
 ## Projects developed:
