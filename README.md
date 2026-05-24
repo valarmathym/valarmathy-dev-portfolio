@@ -20,9 +20,10 @@ Live Demo: Security and Compatibility Testing of the LMS: https://youtu.be/F5uro
 
 ### A2Z Recyclers business Website (Responsive) |  Front-End (UX/UI) Web Development (May 2025)
 Live demo: https://valarmathym.github.io/A2Z-Recyclers-Business-Website-x-y-z-version-1.0/
+GitHub Link: https://github.com/valarmathym/A2Z-Recyclers-Business-Website-x-y-z-version-1.0
 
 ### REST API, No.js - Customer-Product Management System - Back End Development
-GitHUv Link: https://github.com/valarmathym/RESTful_Api_Customer_Product_Management_system_JWT
+GitHub Link: https://github.com/valarmathym/RESTful_Api_Customer_Product_Management_system_JWT
 
 
 
