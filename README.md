@@ -7,12 +7,14 @@ With experience in both collaborative team environments and independent projects
 IT postgraduate (UNSW, partial study) with foundational exposure to Computer science(COMP 9020), Principles of Python programming (COMP 9021), and Database systems (COMP 9311).
 
 ### Projects developed:
-### Gelos Enterprises business Website | Front End web Development (May 2025)
+### Gelos Enterprises business Website (Responisve) | Front-End (UX/UI) Web Development (May 2025)
 Live Demo: https://valarmathym.github.io/Gelos_Enterprises_Business_Webiste_x-y-z-version1.0/
 Live Demo:https://valarmathym.github.io/Gelos_Enterprises_Busness_Website_x-y-z-version2.1/
-### Australia University Library Management System (LMS) | Front end & Back End Web development (Aug 2025)
+### Australia University Library Management System (LMS) | Front-End & Back End Web Development (Aug 2025)
 LIve Demo: Blackbox Testing(Functional Testing) & Database Testing of the LMS: https://youtu.be/63wRn4-VNFI
 Live Demo: Security and Compatibility Testing of the LMS: https://youtu.be/F5uroVdligU
+### A2Z Recyclers business Website (Responsive) |  Front-End (UX/UI) Web Development (May 2025)
+Live demo: https://valarmathym.github.io/A2Z-Recyclers-Business-Website-x-y-z-version-1.0/
 
 
 
