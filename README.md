@@ -1,10 +1,12 @@
 # valarmathy-dev-portfolio
 
-Web Developer, recently graduated from TAFE, NSW with a Diploma of Information Technology ( Front End and Back End).  Have hands-on experience in designing and developing responsive, user-friendly websites and web applications that are both visually appealing and functionally robust using HTML, CSS, JavaScript, React, Node.js, MongoDB etc. 
+Passionate Full-Stack Web Developer with hands-on experience designing and developing responsive, accessible, and user-focused web applications using modern technologies including HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, PHP, and MySQL.
 
-With experience in both collaborative team environments and independent projects, I thrive on turning complex problems into elegant digital solutions. Whether it's optimizing performance, improving accessibility, or building scalable systems, I aim to deliver high-quality code and seamless user experiences.
+Recently graduated from TAFE NSW with a Diploma of Information Technology specialising in Front-End and Back-End Web Development. Experienced in building scalable REST APIs, full-stack applications, and responsive websites with a strong focus on clean code, performance optimization, accessibility, and user experience.
 
-IT postgraduate (UNSW, partial study) with foundational exposure to Computer science(COMP 9020), Principles of Python programming (COMP 9021), and Database systems (COMP 9311).
+Skilled at working independently and collaboratively to solve complex technical problems and deliver practical digital solutions. Strong foundation in software development principles with additional postgraduate exposure to Computer Science, Python Programming, and Database Systems through studies at UNSW.
+
+Passionate about continuous learning, modern web technologies, and creating impactful software solutions.
 
 ## Projects developed:
 
