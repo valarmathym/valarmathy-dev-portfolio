@@ -12,13 +12,17 @@ Passionate about continuous learning, modern web technologies, and creating impa
 
 
 ### Gelos Enterprises business Website (Responisve) | Front-End (UX/UI) Web Development (May 2025)
+
 Live Demo: https://valarmathym.github.io/Gelos_Enterprises_Business_Webiste_x-y-z-version1.0/
+
 Live Demo:https://valarmathym.github.io/Gelos_Enterprises_Busness_Website_x-y-z-version2.1/
 
-...
+---
 
 ### Australia University Library Management System (LMS) | Front-End & Back End Web Development (Aug 2025)
+
 LIve Demo: Blackbox Testing(Functional Testing) & Database Testing of the LMS: https://youtu.be/63wRn4-VNFI
+
 Live Demo: Security and Compatibility Testing of the LMS: https://youtu.be/F5uroVdligU
 
 ---
@@ -28,7 +32,7 @@ Live demo: https://valarmathym.github.io/A2Z-Recyclers-Business-Website-x-y-z-ve
 
 ---
 
-### REST API, No.js - Customer-Product Management System - Back End Development
+### REST API, Node.js - Customer-Product Management System - Back End Web Development
 GitHub Link: https://github.com/valarmathym/RESTful_Api_Customer_Product_Management_system_JWT
 
 ---
