@@ -28,16 +28,19 @@ Live Demo: Security and Compatibility Testing of the LMS: https://youtu.be/F5uro
 ---
 
 ### A2Z Recyclers business Website (Responsive) |  Front-End (UX/UI) Web Development (May 2025)
+
 Live demo: https://valarmathym.github.io/A2Z-Recyclers-Business-Website-x-y-z-version-1.0/
 
 ---
 
 ### REST API, Node.js - Customer-Product Management System - Back End Web Development
+
 GitHub Link: https://github.com/valarmathym/RESTful_Api_Customer_Product_Management_system_JWT
 
 ---
 
 ### C Sharp Programming- Skills assessment Tasks
+
 https://github.com/valarmathym/A2Z-Recyclers-Business-Website-x-y-z-version-1.0
 https://github.com/valarmathym/C-Sharp-Programming_Assessment-Task3
 https://github.com/valarmathym/C-Sharp-Programming_Assessment-Task-4
@@ -46,7 +49,8 @@ https://github.com/valarmathym/C-Sharp-Programming_Assessment-Task-4
 
 
 ### User Registration and Login System in Python Language
-https://github.com/valarmathym/C-Sharp-Programming_Assessment-Task3
+
+https://github.com/valarmathym/User-Authentication---Registration-login-Auto-generating-Password
 
 
 
